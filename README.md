@@ -1,9 +1,20 @@
 <div>
-  <h1 align="left">Olá, bem-vindo ao meu GitHub!</h1>
-  <img align="right" alt="hello-yoda" width="200" height="150" vertical-align="top" src="https://media.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
+  <h1 align="left">Olá, eu sou a Heloisa!</h1> 
+  <img align="right" alt="hello-yoda" vertical-align="top" src="https://media.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif">
+</div>
+<div>
+<h3>Sobre mim:</h3>
+  <p>Sou estudante de programação na Etec de Ourinhos, SP. Gosto de trabalhar tanto com frontend quanto com backend. Atualmente, estou focada em aprender Java e JavaScript. Meu objetivo é construir pequenos projetos para aprimorar meu conhecimento. </p>
 </div>
 
-<div>
-  <h2>Sobre mim:</h2>
-  <p>Eu sou a Heloisa Teixeira, tenho 17 anos e sou estudante de programação na Etec de Ourinhos, SP. Atualmente, estou focada em aprender Java e PHP. Meu objetivo é construir pequenos projetos para treinar minhas habilidades</p>
-</div>
+<br>
+
+---
+
+<h2> Tecnologias que uso:
+  <br><br>
+<img src="https://skillicons.dev/icons?i=c&theme=dark&perline=15"</img>
+<img src="https://skillicons.dev/icons?i=html&theme=dark&perline=15"</img>
+<img src="https://skillicons.dev/icons?i=css&theme=dark&perline=15"</img>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15"</img>
+<img src="https://skillicons.dev/icons?i=java&theme=dark&perline=15"</img>
