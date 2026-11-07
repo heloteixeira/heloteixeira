@@ -4,7 +4,7 @@
 </div>
 <div>
 <h3>Sobre mim:</h3>
-  <p>Sou estudante de programação na Etec de Ourinhos, SP. Gosto de trabalhar tanto com frontend quanto com backend. Atualmente, estou focada em aprender Java e JavaScript. Meu objetivo é construir pequenos projetos para aprimorar meu conhecimento. </p>
+  <p>Sou estudante de Desenvolvimento de Sistemas na Etec. Gosto de trabalhar tanto com frontend quanto com backend. Atualmente, estou focada em aprender Java e JavaScript. Meu objetivo é construir pequenos projetos para aprimorar meu conhecimento. </p>
 </div>
 
 <br>
